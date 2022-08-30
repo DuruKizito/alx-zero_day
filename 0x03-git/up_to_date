@@ -1,0 +1,17 @@
+git status
+
+git add
+
+git push
+
+git commit -m
+
+git pull
+
+git branch
+
+git checkout
+
+git config --global user.name
+
+git config --global user.email
